@@ -1,0 +1,102 @@
+.div1{
+    display: inline-block;
+    height: 300px;
+   
+
+
+}
+.div2{
+    display: inline-block;
+    border: 1px solid grey;
+    margin-left: 200px;
+    width: 500px;
+    height: 300px;
+    align-content: center;
+    border-radius:10px;
+    background-color: white;
+  
+
+    
+}
+
+.divprincipale{
+    margin : auto;
+    width: fit-content;
+    height: 500px;
+    margin-bottom: 600px;
+    text-align: center;
+    margin-top: 150px;
+    
+}
+
+
+
+.info{
+
+    width: 450px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+    
+    
+
+}
+
+.login{
+
+    width: 450px;
+    height: 40px;
+    border-radius:10px;
+
+}
+
+.facebook{
+    color: blue;
+    font-size : 50px;
+    font-weight: bold;
+    text-align: left;
+    
+    
+    }
+
+   
+
+    .paragraphe{
+        
+      font-size : 20px;
+      
+      
+        }
+
+   
+    .login{
+        background-color : blue;
+        margin-top: 40px;
+        margin-left: 20px;
+
+    
+    }
+
+    .newaccount{
+        background-color : green;
+        width: 150px;
+        height: 40px;
+        margin-top: 10px;
+        margin-left: 20px;
+        border-radius:10px;
+        
+
+    }
+
+    .password{
+
+        text-align: center;
+    }
+
+
+
+
+body{
+    background-color: rgb(207, 201, 201);
+}
