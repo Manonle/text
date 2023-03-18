@@ -1,0 +1,20 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    text-size-adjust: 200px; 
+list-style: none;
+gap: 20px;
+}
+
+.li{
+    
+    font-size: 50px; 
+    font-family:monospace;
+   
+}
+
+.section{
+    
+    font-size: 20px; 
+    font-family:monospace;
+}
