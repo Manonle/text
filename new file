@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+<div>
+
+<li> About </li>
+<li> Work</li>
+<li> Resume </li>
+<li> Contact </li>
+
+</div>
+
+<div>
+<section>   
+<H1>About </H1>
+<p> cette section définit notre entreprise et nos missions</p>
+</section>
+
+
+<section>
+    <H1> Work</H1>
+
+    <img src="https://fr.freepik.com/photos/nature"/>
+
+</section>
+
+<section>
+    <H1> Resume</H1>
+    <p> voici une tableau </p>
+
+    <table>
+
+        <tr>
+            <th>Company</th>
+            <th>Contact</th>
+            <th>Country</th>
+          </tr>
+          <tr>
+            <td>Entreprise</td>
+            <td>houda</td>
+            <td>Morocco</td>
+          </tr>
+
+    </table>
+
+</section>
+
+
+<section>
+    <H1> Contact</H1>
+
+    <label for="name">Nom :</label>
+        <input type="text" id="name" name="user_name">
+
+        <label for="Prenom">Prenom :</label>
+        <input type="text" id="Prenom" name="user_name">
+
+</section>
+
+</div>
+
+
+
+</body>
+
+
+<footer> Footer </footer>
+
+
